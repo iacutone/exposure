@@ -1,0 +1,5 @@
+My Project for [[fast.ai][fast.ai]] lesson 2.
+
+_To Run Locally_
+1. `docker build -t fastai-v3 . && docker run --rm -it -p 5000:5000 fastai-v3`
+2. `python app/server.py serve`
